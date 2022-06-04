@@ -1,0 +1,4 @@
+id          = KrasserBot
+name        = ThiefPlugin
+authors     = Richard Brockmann, Vincent Degenhart, Finn Pabst
+entrypoint  = ThiefPlugin
